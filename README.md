@@ -3,7 +3,7 @@
 Meu portfólio pessoal criado com *HTML5, CSS3 e JavaScript*, mostrando meus projetos, habilidades e redes sociais.
 
 ## 🌐 Acesse online
-[[https://pablofront20.github.io/meu-portifolio](https://pablofront20.github.io/meu-portifolio)](https://pablofront20.github.io/newportifolio/)
+(https://pablofront20.github.io/newportifolio/)
 
 ## 🛠️ Tecnologias utilizadas
 - HTML5  
